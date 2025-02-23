@@ -5,28 +5,36 @@ I'm a passionate developer focusing on systems programming and shell scripting. 
 
 ## 🔧 Technologies & Tools
 - **Systems Programming:** C
-- **Operating Systems Development:** Working on CherryOS
+- **Operating Systems Development:** Working on CherryBit
 - **Shell Scripting:** Bash, Zsh
 - **Command Line Tools:** Batch Scripting
 - **Version Control:** Git
 
 ## 🚀 Current Projects
 
-### CherryOS
+### CherryBit
 A custom operating system project exploring system-level programming and OS development concepts.
 - **Language:** C
 - **Started:** November 2024
 - **Focus:** Operating System Development
 - **Status:** Active Development
-- **Last Update:** 2025-01-28
+- **Last Update:** 2025-02-18
+
 
 ### Shell Scripting Collection
 A growing collection of shell scripts for automation and system management.
 ```bash
 # Example of my shell scripting style:
+
+ProjectPath="~/Git_REPO/CherryBit"
+
 function automate() {
-    echo "Automating daily tasks"
-    # System automation magic happens here
+    echo "Automating Tasks"
+    open ~
+    echo "Opened home location! please navigate your system as per your wish!\n Opening new terminal and code session for daily coding..."
+    bash
+    code ProjectPath
+    
 }
 
 ```
