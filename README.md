@@ -38,6 +38,24 @@ function automate() {
 }
 
 ```
+### CAPP
+A simple app bundling utility that helps avoid conflicts between different systems.
+
+### C²
+A super-hybrid programming toolkit that blends Scratch simplicity, Python-like readability, and C-level performance via a smart header-only library.
+Example:
+``` c
+#include "csquare.h"
+
+int main() {
+    repeat(5) {
+        say("Hello World!");
+        wait(1);
+    }
+    say("Hello world has been said 5 times!");
+}
+
+```
 <!---
 dev-sudeep/dev-sudeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
