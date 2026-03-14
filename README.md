@@ -6,6 +6,7 @@ I'm a passionate developer focusing on systems programming and shell scripting. 
 ## 🔧 Technologies & Tools
 - **Systems Programming:** C
 - **Operating Systems Development:** Working on CherryBit
+- **Graphics:** `ttygfx` for drawing in a Terminal.
 - **Shell Scripting:** Bash, Zsh
 - **Command Line Tools:** Batch Scripting
 - **Version Control:** Git
