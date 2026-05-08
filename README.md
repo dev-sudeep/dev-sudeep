@@ -5,21 +5,21 @@ I'm a passionate developer focusing on systems programming and shell scripting. 
 
 ## 🔧 Technologies & Tools
 - **Systems Programming:** C
-- **Operating Systems Development:** Working on CherryBit
+- **Kernel Development:** Working on ByteBoot
 - **Graphics:** `ttygfx` for drawing in a Terminal.
 - **Shell Scripting:** Bash, Zsh
 - **Command Line Tools:** Batch Scripting
+- **Package Manager:** CAPP
 - **Version Control:** Git
 
 ## 🚀 Current Projects
 
 ### CherryBit
-A custom operating system project exploring system-level programming and OS development concepts.
+A custom kernel project exploring system-level programming.
 - **Language:** C
 - **Started:** November 2024
 - **Focus:** Operating System Development
-- **Status:** Active Development
-- **Last Update:** 2025-02-18
+- **Status:** Active 
 
 
 ### Shell Scripting Collection
@@ -41,7 +41,10 @@ function automate() {
 ```
 ### CAPP
 A simple app bundling utility that helps avoid conflicts between different systems.
-
+- **Language:** C
+- **Focus:** Package management
+- **Status:** Active
+ 
 ### C²
 A super-hybrid programming toolkit that blends Scratch simplicity, Python-like readability, and C-level performance via a smart header-only library.
 Example:
